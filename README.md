@@ -1,2 +1,3 @@
-# elixir-study
-Exercises on Elixir Lang
+# Algo study
+
+Exercises about algorithms
